@@ -1,5 +1,3 @@
-// import Skycons from './skycons'
-
 window.addEventListener('load', getLocation())
 
 function getLocation() {
